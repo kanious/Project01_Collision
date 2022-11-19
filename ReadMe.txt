@@ -26,6 +26,7 @@ https://github.com/kanious/Project02_Collision
 
  < Etc >
  * F1 : Enable/disable Large Mesh Bounding boxes (leaf nodes of octree).
+        * Only the bounding boxes of leaf nodes where triangles exist are enabled.
  * F2 : Enable/disable Object Bounding box.
  * F3 : Reset Object to the initial position (0, 0, 20) and initial rotation (0, 0, 0).
  * ESC : Close the program.

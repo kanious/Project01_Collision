@@ -1,0 +1,20 @@
+<Mesh_List>
+	<Mesh>
+		<ID>terrain</ID>
+		<Path>Assets\Mesh\SceneCollision\</Path>
+		<FileName>car.ply</FileName>
+		<Type>1</Type>
+		<Shader_ID>ColorShader</Shader_ID>
+		<Texture_ID_Diff></Texture_ID_Diff>
+		<InitSize>1</InitSize>
+	</Mesh>
+	<Mesh>
+		<ID>character</ID>
+		<Path>Assets\Mesh\SceneCollision\</Path>
+		<FileName>airplane.ply</FileName>
+		<Type>1</Type>
+		<Shader_ID>ColorShader</Shader_ID>
+		<Texture_ID_Diff></Texture_ID_Diff>
+		<InitSize>1</InitSize>
+	</Mesh>
+</Mesh_List>

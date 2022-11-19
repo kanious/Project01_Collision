@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Object_Data>
+	<Objects category="Camera">
+		<EyePosX>11.405338</EyePosX>
+		<EyePosY>10.358268</EyePosY>
+		<EyePosZ>43.112473</EyePosZ>
+		<EyeRotX>16.149284</EyeRotX>
+		<EyeRotY>198.943497</EyeRotY>
+		<EyeRotZ>0.000000</EyeRotZ>
+		<TargetPosX>11.093513</TargetPosX>
+		<TargetPosY>10.080127</TargetPosY>
+		<TargetPosZ>42.203957</TargetPosZ>
+	</Objects>
+	<Objects>
+		<ID>terrain</ID>
+		<PosX>0.000000</PosX>
+		<PosY>0.000000</PosY>
+		<PosZ>0.000000</PosZ>
+		<RotX>0.000000</RotX>
+		<RotY>0.000000</RotY>
+		<RotZ>0.000000</RotZ>
+		<ScaleX>1.000000</ScaleX>
+		<ScaleY>1.000000</ScaleY>
+		<ScaleZ>1.000000</ScaleZ>
+		<EffectSound></EffectSound>
+		<Lock>1</Lock>
+	</Objects>
+	<Objects>
+		<ID>character</ID>
+		<PosX>0.000000</PosX>
+		<PosY>0.000000</PosY>
+		<PosZ>20.000000</PosZ>
+		<RotX>0.000000</RotX>
+		<RotY>0.000000</RotY>
+		<RotZ>0.000000</RotZ>
+		<ScaleX>2.00000</ScaleX>
+		<ScaleY>2.00000</ScaleY>
+		<ScaleZ>2.00000</ScaleZ>
+		<EffectSound></EffectSound>
+		<Lock>0</Lock>
+	</Objects>
+</Object_Data>

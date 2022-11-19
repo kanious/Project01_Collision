@@ -4,7 +4,7 @@
   Or you can execute with "CollisionDetection.exe" file in x64\Debug(or Release) folder.
 
 - GitHub Link:
-https://github.com/kanious/Project01_Collision
+https://github.com/kanious/Project02_Collision
 
 
 
